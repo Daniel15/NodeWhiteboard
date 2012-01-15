@@ -43,6 +43,8 @@ var Whiteboard =
 			tool = 'Rectangle';
 		else if ($('ellipse').get('checked'))
 			tool = 'Ellipse';
+		else if ($('freehand').get('checked'))
+			tool = 'FreeHand';
 			
 		if (!tool)
 			return null;

@@ -1,0 +1,37 @@
+body
+{
+	margin: 0.2em;
+}
+
+#drawing
+{
+	width: 600px;
+	height: 600px;
+	border: 1px solid red;
+	margin: 0.5em auto;
+}
+
+#loading
+{
+	text-align: center;
+	margin-top: 5em;
+}
+
+#toolbox
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#toolbox li
+{
+	display: inline-block;
+	border-right: 1px solid #AAA;
+	padding: 0 0.4em 0 0.2em;
+}
+
+#toolbox li:last-child
+{
+	border-right: none;
+}

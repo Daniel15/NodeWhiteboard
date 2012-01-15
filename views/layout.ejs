@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content-type="utf-8" />
+	<title><%= title %></title>
+	<link rel="stylesheet" href="/stylesheets/normalize.css" />
+	<link rel="stylesheet" href="/stylesheets/style.css" />
+</head>
+<body id="<%= pageId %>">
+	<%- body %>
+	<script src="/javascripts/raphael-min.js"></script>
+	
+	<script src="/javascripts/framework/core.js"></script>
+	<script src="/javascripts/framework/dom.js"></script>
+	<script src="/javascripts/framework/events.js"></script>
+	
+	<script src="/nowjs/now.js"></script>
+	
+	<!--script src="/javascripts/tools/shape/shapebase.js"></script-->
+	<script>var Tools = { Shape: {} };</script>
+	<script src="/javascripts/tools/shape/rectangle.js"></script>
+	<script src="/javascripts/tools/shape/ellipse.js"></script>
+	<script src="/javascripts/scripts.js"></script>
+</body>
+</html>

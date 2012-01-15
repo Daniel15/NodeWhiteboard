@@ -1,0 +1,3 @@
+[submodule "public/javascripts/framework"]
+	path = public/javascripts/framework
+	url = git://github.com/Daniel15/JSFramework.git

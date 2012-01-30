@@ -9,6 +9,11 @@ Requirements
  - [express](http://expressjs.com/)
  - [Now.js](http://nowjs.com/)
  - [Raphaël](http://raphaeljs.com/), bundled
+
+Amazingly Artistic Screenshot
+=============================
+You really do need to try it to see how it works. Here's an awesome screenshot, though:
+![Screenshot](http://ss.dan.cx/2012/01/15-21.28.32.png)
  
 Licence
 =======

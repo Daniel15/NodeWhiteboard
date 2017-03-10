@@ -1,6 +1,8 @@
 Simple Node.js Whiteboard
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Daniel15/NodeWhiteboard.svg)](https://greenkeeper.io/)
+
 A simple whiteboard app using Node.js, SVG (via Raphaël) and Socket.io. Allows users to draw stuff 
 and see updates in real-time.
 
